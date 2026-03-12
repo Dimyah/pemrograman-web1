@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/*"
+to = "/Makanan.html"
+status = 200
